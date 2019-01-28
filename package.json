@@ -25,7 +25,9 @@
                     "cisco"
                 ],
                 "extensions": [
-                    ".ios"
+                    ".ios",
+                    ".fibrenoire",
+                    ".fibrenoire.ca"                  
                 ],
                 "configuration": "./language-configuration.json"
             }
